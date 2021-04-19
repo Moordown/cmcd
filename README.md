@@ -1,0 +1,1 @@
+-f plato.txt -df a.txt -m b.txt --encode
