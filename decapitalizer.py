@@ -1,0 +1,6 @@
+class Decapitalizer:
+    def encode(self):
+        ...
+
+    def decode(self):
+        ...
